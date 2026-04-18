@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=UM8RELLA-username&color=111111&style=square&label=++INFECTED+CONTAMINATED++&abreviated=true"></p>
 <p align="center">
-<img width="623" height="329" alt="Untitled464_20260412185636" src="https://github.com/user-attachments/assets/c6495617-7199-4898-b850-21e62b55d370" /></br>
+<img width="65%" height="65%" alt="Untitled464_20260412185636" src="https://github.com/user-attachments/assets/c6495617-7199-4898-b850-21e62b55d370" /></br>
 </p>
 <br>
 <p align="center">
